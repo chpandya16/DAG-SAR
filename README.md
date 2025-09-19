@@ -171,7 +171,7 @@ All scripts support modern authentication using Azure AD App registrations with 
 ## Maintainer
 
 Chintan Pandya
-[https://github.com/chpandya_microsoft](https://github.com/chpandya16)
+https://github.com/chpandya16
 ```
 If you have questions or need help, please open an issue in this repository.
 ```
